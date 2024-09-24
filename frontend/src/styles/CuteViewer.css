@@ -1,0 +1,26 @@
+.cute-viewer-container {
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.small-gif {
+    width: 70%;
+}
+
+.top-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.middle-row {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bottom-row {
+    display: flex;
+    justify-content: center;
+}
