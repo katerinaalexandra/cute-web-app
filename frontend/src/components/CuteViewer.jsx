@@ -3,8 +3,6 @@ import '../styles/CuteViewer.css';
 import { Container, Row, Col } from 'react-bootstrap';
 
 const CuteViewer = () => {
-    const [animalFact, setAnimalFact] = useState("Generate new animal fact!")
-    const [isLoading, setIsLoading] = useState(true);
 
     const gifs = [
         "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBmYzM3M3M2ZnEydXBpamo4aHNrMmt4eHFmc3Y0cDE3dXp4cTV1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UkfUod3TFW66J2BWKK/giphy.gif",
