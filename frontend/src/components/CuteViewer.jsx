@@ -28,7 +28,7 @@ const CuteViewer = () => {
             </Row>
             <Row className="middle-row">
                 <div className="text">
-                    Have the best first day Dylan!!
+                    Have the best first day Dylan!! I love you SO much and can't wait for you to tell me all your zoo stories.
                 </div>
                 {/* <div className="generate-animal-fact">
                     <div>
